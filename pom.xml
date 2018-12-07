@@ -34,7 +34,7 @@
 							<goal>wget</goal>
 						</goals>
 						<configuration>
-							<uri>https://developer.swift.com/SWIFT-KYC-API-v1-public.yaml</uri>
+							<uri>https://developer.swift.com/sites/all/themes/swift_apigee/documentation/kyc/SWIFT-KYC-API-v1-public.yaml</uri>
 							<outputDirectory>${project.build.directory}</outputDirectory>
 							<outputFileName>swagger.yaml</outputFileName>
 						</configuration>
